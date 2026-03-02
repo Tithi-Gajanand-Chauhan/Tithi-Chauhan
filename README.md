@@ -1,6 +1,6 @@
 # Tithi-Chauhan
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=650&center=true&lines=Hi%2C+I'm+Tanisha+Vasa;NIT+Surat+CSE'29;Oracle+Certified+GenAI+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=650&center=true&lines=Hi%2C+I'm+TithiChauhan;NIT+Surat+CSE'29;Oracle+Certified+GenAI+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
