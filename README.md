@@ -95,4 +95,4 @@ Sardar Vallabhbhai National Institute of Technology, Surat
 # 📊 GitHub Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tithi-Gajanand-Chauhan-commits&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tithi-Gajanand-Chauhan&theme=dark)
