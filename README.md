@@ -38,32 +38,63 @@ Sardar Vallabhbhai National Institute of Technology, Surat
 
 # 🏆 Academic Highlights
 
+- 🎓 **CGPA:** 9.15 (Semester 1)
 - JEE Main – 98.75 percentile  
 - GUJCET – 99.15 percentile  
 - ACPC Rank – 116
-- Qualified JEE Advanced  
+- Qualified JEE Advanced
+
+
+# 🌟 Interests
+
+- 💻 Software Development
+- 🧠 Data Structures & Algorithms
+- 🌐 Web Development
+- 🚀 Hackathons and Tech Competitions
+- 🤝 Collaborative Problem Solving
+
+# 📌 Experience
+
+### 💻 Hackathons
+- Participated in Google Winter Of Code SVNIT
 
 ---
+# 💻 Tech Stack:
 
-# 💻 Tech Stack
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 🌱 Currently Learning
+# 🚀 Projects
 
-- Data Structures
-- Algorithms
-- Git & GitHub
-- Web Development Basics
+### 🌱 Project Name — Short Tagline
+
+- Built a responsive website/application for ______.
+- Focused on clean UI, performance, and user experience.
+- **Tech:** HTML, CSS,Formspree  
+
+- 🔗 **Website:** https://tithi-gajanand-chauhan.github.io/Chill-Thrive/  
+- 💻 **GitHub:** https://github.com/Tithi-Gajanand-Chauhan/Chill-Thrive.git
 
 ---
 
-# 🤝 Let's Connect
+# 🎭 Activities & Leadership
 
-- LinkedIn: YOUR LINK  
-- GitHub: YOUR PROFILE
+- 🗣️ Participated in quiz competitions
+- 💃 Participation in cultural and dance events
+- 🤝 Team collaboration during hackathons and academic projects
+- 🎯 Active involvement in academic and co-curricular competitions
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tithi-Gajanand-Chauhan&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tithi-Gajanand-Chauhan&layout=compact&theme=tokyonight"/>
+</p>
