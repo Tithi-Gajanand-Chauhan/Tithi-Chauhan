@@ -39,8 +39,9 @@ Sardar Vallabhbhai National Institute of Technology, Surat
 # 🏆 Academic Highlights
 
 - JEE Main – 98.75 percentile  
-- GUJCET – 99.86 percentile  
-- ACPC Rank – 47  
+- GUJCET – 99.15 percentile  
+- ACPC Rank – 116
+- Qualified JEE Advanced  
 
 ---
 
